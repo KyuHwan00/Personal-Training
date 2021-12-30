@@ -2,5 +2,6 @@
 
 
 여러 프로젝트를 하면서 느낀 결핍을 재활용 중 ♻️
-## Pandas & Deep Learning
-(Tensorflow)
+
+**Pandas & Deep Learning
+(Tensorflow)**
